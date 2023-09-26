@@ -1,0 +1,14 @@
+C:\Users\mvgri\source\repos\csharpselection\csharpselection\bin\Debug\net7.0\csharpselection.exe
+C:\Users\mvgri\source\repos\csharpselection\csharpselection\bin\Debug\net7.0\csharpselection.deps.json
+C:\Users\mvgri\source\repos\csharpselection\csharpselection\bin\Debug\net7.0\csharpselection.runtimeconfig.json
+C:\Users\mvgri\source\repos\csharpselection\csharpselection\bin\Debug\net7.0\csharpselection.dll
+C:\Users\mvgri\source\repos\csharpselection\csharpselection\bin\Debug\net7.0\csharpselection.pdb
+C:\Users\mvgri\source\repos\csharpselection\csharpselection\obj\Debug\net7.0\csharpselection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mvgri\source\repos\csharpselection\csharpselection\obj\Debug\net7.0\csharpselection.AssemblyInfoInputs.cache
+C:\Users\mvgri\source\repos\csharpselection\csharpselection\obj\Debug\net7.0\csharpselection.AssemblyInfo.cs
+C:\Users\mvgri\source\repos\csharpselection\csharpselection\obj\Debug\net7.0\csharpselection.csproj.CoreCompileInputs.cache
+C:\Users\mvgri\source\repos\csharpselection\csharpselection\obj\Debug\net7.0\csharpselection.dll
+C:\Users\mvgri\source\repos\csharpselection\csharpselection\obj\Debug\net7.0\refint\csharpselection.dll
+C:\Users\mvgri\source\repos\csharpselection\csharpselection\obj\Debug\net7.0\csharpselection.pdb
+C:\Users\mvgri\source\repos\csharpselection\csharpselection\obj\Debug\net7.0\csharpselection.genruntimeconfig.cache
+C:\Users\mvgri\source\repos\csharpselection\csharpselection\obj\Debug\net7.0\ref\csharpselection.dll
